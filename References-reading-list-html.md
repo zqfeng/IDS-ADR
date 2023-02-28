@@ -21,8 +21,8 @@ You can see the course website at
 
 What follows is a pretty exhaustive list (we don’t expect course
 participants to read everything on here\!), so a good place to start are
-the **course texts**. We now run the course using R. However we have run
-the course covering both R (<https://www.r-project.org/>) and Stata 
+the **course texts**. We now run the course using R. However we have previously 
+run the course covering both R (<https://www.r-project.org/>) and Stata 
 (<https://www.stata.com/>), so we have course texts listed for both programs.
 
 Much of the **R** material in the course was based on Grolemund and
